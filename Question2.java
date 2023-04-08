@@ -29,25 +29,7 @@ public class Question2 {
         System.out.println("잘못 된 입력입니다.");
         }
 
-
-
         cashbackCalculation.close();
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    }
+   }
 }
